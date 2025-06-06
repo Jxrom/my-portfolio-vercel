@@ -121,7 +121,7 @@ export default function HomePage() {
                 and I love combining clean design with powerful functionality.
               </p>
               <p>
-                I&#39;m always up for learning something new, picking up random
+                I&apos;m always up for learning something new, picking up random
                 tech skills, or just figuring stuff out as I go. I like
                 challenges — especially the kind that come with debugging at 2
                 AM.
