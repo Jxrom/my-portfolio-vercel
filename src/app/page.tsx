@@ -71,7 +71,7 @@ export default function HomePage() {
             />
           </div>
           <h1 className="text-4xl sm:text-6xl font-bold">
-            Hi, I&apos;m <span className="text-emerald-700">Jerome</span>
+            Hi, I&#39;m <span className="text-emerald-700">Jerome</span>
           </h1>
           <p className="text-lg sm:text-xl text-gray-300">
             A Computer Engineer who loves to code.
@@ -113,22 +113,22 @@ export default function HomePage() {
 
             <div className="w-full md:w-1/2 text-gray-300 space-y-4">
               <p>
-                Hey, I&apos;m Jerome — a Computer Engineer who&apos;s pretty
-                much happy anywhere there&apos;s code.
+                Hey, I&apos;m Jerome — a Computer Engineer who&#39;s pretty much
+                happy anywhere there&#39;s code.
               </p>
               <p>
                 I specialize in front-end development using React and Next.js,
                 and I love combining clean design with powerful functionality.
               </p>
               <p>
-                I&apos;m always up for learning something new, picking up random
+                I&#39;m always up for learning something new, picking up random
                 tech skills, or just figuring stuff out as I go. I like
                 challenges — especially the kind that come with debugging at 2
                 AM.
               </p>
               <p>
-                Outside of coding, I&apos;m really into anime. Shows like{" "}
-                <em>{"Steins;Gate"}</em>, <em>My Hero Academia</em>, and{" "}
+                Outside of coding, I&#39;m really into anime. Shows like{" "}
+                <em>Steins;Gate</em>, <em>My Hero Academia</em>, and{" "}
                 <em>Dr. Stone</em> hit that perfect mix of science, emotion, and
                 hype. They kinda inspire how I think about creativity and logic,
                 too.
@@ -227,7 +227,7 @@ export default function HomePage() {
             <div className="bg-white text-gray-900 p-6 rounded-lg shadow-lg max-w-sm w-full">
               <h3 className="text-xl font-semibold">Message Sent!</h3>
               <p className="mt-2">
-                Thanks for reaching out. I&apos;ll get back to you soon.
+                Thanks for reaching out. I&#39;ll get back to you soon.
               </p>
               <button
                 onClick={() => setSubmitted(false)}
