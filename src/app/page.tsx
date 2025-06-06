@@ -8,7 +8,7 @@ import {
   SiTypescript,
   SiPython,
   SiReact,
-  SiReactos, // react native alternative icon (there's no direct react native icon, react icon used)
+  SiReactos,
   SiNextdotjs,
   SiGithub,
   SiMysql, // for SQL, MySQL icon
