@@ -71,7 +71,7 @@ export default function HomePage() {
             />
           </div>
           <h1 className="text-4xl sm:text-6xl font-bold">
-            Hi, I'm <span className="text-emerald-700">Jerome</span>
+            Hi, I&apos;m <span className="text-emerald-700">Jerome</span>
           </h1>
           <p className="text-lg sm:text-xl text-gray-300">
             A Computer Engineer who loves to code.
