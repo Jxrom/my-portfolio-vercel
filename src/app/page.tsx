@@ -113,20 +113,21 @@ export default function HomePage() {
 
             <div className="w-full md:w-1/2 text-gray-300 space-y-4">
               <p>
-                Hey, I’m Jerome — a Computer Engineer who’s pretty much happy
-                anywhere there’s code.
+                Hey, I&apos;m Jerome — a Computer Engineer who&apos;s pretty
+                much happy anywhere there&apos;s code.
               </p>
               <p>
                 I specialize in front-end development using React and Next.js,
                 and I love combining clean design with powerful functionality.
               </p>
               <p>
-                I’m always up for learning something new, picking up random tech
-                skills, or just figuring stuff out as I go. I like challenges —
-                especially the kind that come with debugging at 2 AM.
+                I&apos;m always up for learning something new, picking up random
+                tech skills, or just figuring stuff out as I go. I like
+                challenges — especially the kind that come with debugging at 2
+                AM.
               </p>
               <p>
-                Outside of coding, I’m really into anime. Shows like{" "}
+                Outside of coding, I&apos;m really into anime. Shows like{" "}
                 <em>Steins;Gate</em>, <em>My Hero Academia</em>, and{" "}
                 <em>Dr. Stone</em> hit that perfect mix of science, emotion, and
                 hype. They kinda inspire how I think about creativity and logic,
