@@ -227,7 +227,7 @@ export default function HomePage() {
             <div className="bg-white text-gray-900 p-6 rounded-lg shadow-lg max-w-sm w-full">
               <h3 className="text-xl font-semibold">Message Sent!</h3>
               <p className="mt-2">
-                Thanks for reaching out. I’ll get back to you soon.
+                Thanks for reaching out. I&apos;ll get back to you soon.
               </p>
               <button
                 onClick={() => setSubmitted(false)}
