@@ -128,7 +128,7 @@ export default function HomePage() {
               </p>
               <p>
                 Outside of coding, I&apos;m really into anime. Shows like{" "}
-                <em>Steins;Gate</em>, <em>My Hero Academia</em>, and{" "}
+                <em>{"Steins;Gate"}</em>, <em>My Hero Academia</em>, and{" "}
                 <em>Dr. Stone</em> hit that perfect mix of science, emotion, and
                 hype. They kinda inspire how I think about creativity and logic,
                 too.
